@@ -8,5 +8,5 @@ I am a software developer. I've developed for web, e-commerce, mobile, and more.
 - I write blog posts about my app development at [sleekible.com](https://www.sleekible.com)
 
 ### 📫 Reach me at
-- [twitter.com/tomhartnett](https://twitter.com/tomhartnett)
+- [@tomhartnett@hachyderm.io](https://hachyderm.io/@tomhartnett)
 - [LinkedIn](https://www.linkedin.com/in/0tomhartnett/)
