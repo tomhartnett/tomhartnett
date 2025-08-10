@@ -3,9 +3,8 @@
 I am a software developer. I've developed for web, e-commerce, mobile, and more. These days I'm focused on developing for Apple's platforms.
 
 - I'm currently working on a mobile POS for iOS for a major payment processor.
-- I'm also working on my own apps in my free time.
-- I write blog posts about my app development at [sleekible.com](https://www.sleekible.com)
+- I also work on my own apps in my free time.
 
 ### 📫 Follow me at
-- [@tomhartnett@hachyderm.io](https://hachyderm.io/@tomhartnett)
+- [Mastodon](https://hachyderm.io/@tomhartnett)
 - [LinkedIn](https://www.linkedin.com/in/0tomhartnett/)
